@@ -25,5 +25,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Mac Hollinger/Downloads/spring-jdbc-2.0.6(7).jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
